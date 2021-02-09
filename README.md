@@ -1,2 +1,2 @@
 # datasets
-yahoo finance
+Yahoo Finance
