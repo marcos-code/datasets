@@ -1,2 +1,2 @@
-# datasets_pandas
+# datasets
 Yahoo Finance
